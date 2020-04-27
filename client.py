@@ -36,6 +36,6 @@ def Main():
         s.close()
 def prompt(euid, host):
     global shell
-    shell = input("\033[00m%s~%s\033[033m" % (host, "#" if euid==0 else "$"))
+    shell = input("\033[00m%s~%s \033[033m" % (host, "#" if euid==0 else "$"))
 if __name__ == '__main__':
     Main()
