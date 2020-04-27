@@ -5,3 +5,6 @@ You can share after updating my script or adding new feature but please put orig
 
 Thanks for using.
 Happy hacking!
+
+#Disclaimer
+Author will not responsible for any misuses and doing an illegal things. I strictly recommended that u should test this in authorized networks or systems
