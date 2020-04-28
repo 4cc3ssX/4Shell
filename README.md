@@ -3,7 +3,7 @@ This two script is the command shell using python Socket and subprocess. Most fe
 
 You can share after updating my script or adding new feature but please put original author name and share back to me of new feature source code.
 
-Thanks for using.
+Thanks for using my product.
 Happy hacking!
 
 # Disclaimer
