@@ -5,12 +5,12 @@ import os
 from colorama import Fore,Back
 
 def Main():
-    host = "0.tcp.ngrok.io"
-    port = 16803
+    host = "YOUR_LISTEN_IP"
+    port = "LISTEN_PORT"
     
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     try:
-            s.connect((host,port))
+            s.connect((host,int(port)))
     except ConnectionRefusedError:
             resp(1,"Connection refused!")
             sys.exit()
