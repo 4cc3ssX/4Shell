@@ -6,7 +6,7 @@ from colorama import Fore,Back
 
 def Main():
     host = "YOUR_LISTEN_IP"
-    port = "LISTEN_PORT"
+    port = "4723"
     
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     try:
