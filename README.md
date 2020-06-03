@@ -3,7 +3,7 @@ This two script is the command shell using python Socket and subprocess. Most fe
 
 # Running
 
-Set your public ip, ngrok or something u tunnel to ur host in server.py to connect ur listening address and port. Before u run server.py u must run `nc -lvp 4723` (or) `python3 client.py` 
+Set your public ip, ngrok or something u tunnel to ur host in server.py to connect ur listening address and port. Before u run server.py u must run `nc -lvp YOUR_CUSTOMIZED_PORT` (or) `python3 client.py` 
 for listening connection.
 
 # Note
