@@ -1,4 +1,4 @@
-# pyshell
+# 4Shell
 This two script is the reverse shell using python Socket and subprocess. Most feature supported in the script. Victim script must be stay in victim machine and attacker must be in attacker machine. 
 
 # Note
